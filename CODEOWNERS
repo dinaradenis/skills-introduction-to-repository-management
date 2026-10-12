@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dinaradenis
+/src/backend/database.py      @dinaradenis
+/src/backend/routers/auth.py  @dinaradenis
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dinaradenis
